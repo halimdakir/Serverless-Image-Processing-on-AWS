@@ -1,4 +1,3 @@
-```markdown
 # AWS Lambda Image Uploader & Processor
 
 This repository includes two AWS Lambda functions written in Go and deployed using Docker containers:
@@ -20,6 +19,7 @@ This repository includes two AWS Lambda functions written in Go and deployed usi
 ## Architecture Overview
 
 The following diagram provides a high-level view of how the system components interact from upload to processing:
+![Workflow](https://github.com/user-attachments/assets/3616375e-d128-44a5-91c6-d898b562747f)
 
 
 
