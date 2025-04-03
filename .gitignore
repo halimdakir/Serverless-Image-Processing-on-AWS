@@ -1,0 +1,35 @@
+# Go binary files
+/bin/
+/obj/
+
+# Go module files
+go.sum
+go.mod
+
+# IDE files (e.g., VS Code, IntelliJ)
+.vscode/
+.idea/
+
+# Docker files
+*.dockerignore
+Dockerfile*
+.docker/
+docker-compose.yml
+
+# Lambda build directories (if any)
+.aws-lambda-build/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Payload files
+payload.json
+
+# Test output
+/results/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
