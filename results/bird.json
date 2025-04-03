@@ -1,0 +1,8 @@
+{
+  "message": "Image processed successfully",
+  "execution_time": 0.8470554351806641,
+  "memory_used_MB": 2.77734375,
+  "detected_objects": ["Animal", "Bird", "Jay", "Cartoon", "Bluebird"],
+  "extracted_text": [],
+  "processed_image_s3_url": "s3://RESULT_BUCKET_NAME/processed/bird.png"
+}

@@ -17,12 +17,6 @@ go.sum
 *.tmp
 *.bak
 
-# Payload files
-payload.json
-
-# Test output
-/results/
-
 # OS-specific files
 .DS_Store
 Thumbs.db

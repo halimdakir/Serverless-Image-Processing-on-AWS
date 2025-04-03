@@ -1,0 +1,8 @@
+{
+  "message": "Image processed successfully",
+  "execution_time": 1.216324806213379,
+  "memory_used_MB": 5.4140625,
+  "detected_objects": ["Formula One", "Race Car", "Wheel", "Alloy Wheel", "Tire"],
+  "extracted_text": ["Shell", "BRIDGESTONE", "Marlboro", "BRIDGESTONE", "FIAT", "MAGNE", "Marlboro", "MA", "BRIDGESTONE", "tic", "B", "tac", "FedEx", "POTE NZA", "POTENZA", "TIM", "Shell", "BRIDGESTONE", "Marlboro", "BRIDGESTONE", "FIAT", "MAGNE", "Marlboro", "MA", "BRIDGESTONE", "tic", "B", "tac", "FedEx", "POTE", "NZA", "POTENZA", "TIM"],
+  "processed_image_s3_url": "s3://RESULT_BUCKET_NAME/processed/formula1.png"
+}
