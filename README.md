@@ -1,4 +1,3 @@
-```markdown
 # AWS Lambda Image Uploader & Processor
 
 This repository includes two AWS Lambda functions written in Go and deployed using Docker containers:
